@@ -17,6 +17,7 @@ Paper list of Unsupervised/Semisupervised Machine Translation.
 - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf)
 - [Joint Training for Pivot-based Neural Machine Translation](https://arxiv.org/pdf/1611.04928.pdf)
 - [A Teacher-Student Framework for Zero-Resource Neural Machine Translation](https://arxiv.org/pdf/1705.00753.pdf)
+- [Joint Training for Neural Machine Translation Models with Monolingual Data](https://arxiv.org/pdf/1803.00353.pdf)
 
 ## Unsupervised Machine Translation
 
